@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<title>server взлома</title>
+		<link rel="stylesheet" href="styleserver.css">
+
+	</head>
+	<body>
+<div id="kod">Код взлома</div>
+<div id="elem">
+<script type="text/javascript" src="kod.js"></script>
+</div>
+
+
+<div id="zagruzka">Загрузка ключей защиты</div>
+<div id="vzlom">Взлом защиты (введи любые цифры)</div>
+<a id="shans" href="извинение0.html">Покинуть этот сервер и дать миру еще один шанс!!! Бугагага</a>
+	</body>
+</html>
